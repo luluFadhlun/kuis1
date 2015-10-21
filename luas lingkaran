@@ -1,0 +1,9 @@
+# kuis1
+
+public class luasLingkaranPerhitungan {
+    double Luas;
+    public double luasLingkaran(double jari2){
+        Luas = 3.14 * jari2 * jari2 ;
+        return Luas;
+    }
+}
